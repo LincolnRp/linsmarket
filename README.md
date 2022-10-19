@@ -1,5 +1,4 @@
 # LinsMarket!
- [linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770009-a1a3bb7f-5839-4c8a-8be6-50909d046860.png)
 
 ![linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770077-4aec5618-1872-4df6-a594-feeb208ea083.png)
 
