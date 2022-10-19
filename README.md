@@ -1,4 +1,5 @@
-# LinsMarket! [linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770009-a1a3bb7f-5839-4c8a-8be6-50909d046860.png)
+# LinsMarket!
+ [linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770009-a1a3bb7f-5839-4c8a-8be6-50909d046860.png)
 
 
 LinsMarket, é uma aplicação fullstack que permite o usuário realizar compras.
