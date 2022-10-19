@@ -15,7 +15,7 @@ Na parte administrativa, os usuários previamente setados com role de ADMIN, pod
 ## 📋 Funcionalidades
 
 API: https://documenter.getpostman.com/view/21551951/2s847LMBRB 
-FIGMA: https://www.figma.com/file/ZPZdfAeM0zNEbLekWwn7RH/LinsMarket---Lincoln-Ribeiro-DEV?node-id=0%3A1
+FIGMA: https://www.figma.com/file/ZPZdfAeM0zNEbLekWwn7RH/LinsMarket---Lincoln-Ribeiro-DEV?node-id=0%3A1 </br>
 MORDELAGEM DB: https://www.dropbox.com/s/d7i840ntew08p2d/Modelagem%20-%20DB.sql?dl=0
 
 🔧 Getting Started / Configurações de Ambiente / Setup / Instalação
@@ -27,5 +27,6 @@ Por fim, não se esqueça de criar o arquivo .env e colocar sua configurações 
 Html, CSS, Javascript, Styled-Components, Chakra UI, useEffect, useState, useForm, GlobalState, Axios, React-Router-Dom, Typescript, MySQL, Node, API, POO.
 
 ✒️ Autores
-INTEGRANTE: https://github.com/lincolnRp
+
 ![vue-color-avatar](https://user-images.githubusercontent.com/93271677/195719553-fa3bdb3c-7fb0-41bb-b6f2-9ca6ef6b26de.png)
+INTEGRANTE: https://github.com/lincolnRp
