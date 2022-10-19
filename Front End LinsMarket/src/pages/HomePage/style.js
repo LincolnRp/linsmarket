@@ -1,62 +1,48 @@
 import styled from "styled-components";
 
-export const DivContainerHome = styled.div`
+export const DivContainerHome = styled.div``;
+export const DivContent = styled.div`
+  display: flex;
+`;
+export const DivFilter = styled.div`
+  margin-left: 2%;
+  display: flex;
+  flex-direction: column;
 
-
-
-
-`
-export const  DivContent = styled.div`
-
-display: flex;
-
-` 
-export const   DivFilter = styled.div`
-
-margin-left: 2%;
-display: flex;
-flex-direction: column;
-
-
-h2{
-    color: #0274BC;
+  h2 {
+    color: #0274bc;
     font-weight: bold;
     font-size: 20px;
-}
+  }
 
-li{
+  li {
     color: #989898;
     font-weight: bold;
     font-size: 18px;
     margin-top: 2%;
-}   
-
-`
+  }
+`;
 export const DivProducts = styled.div`
-
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-row-gap: 50px;
-column-gap: 4%;
-
-
-`
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 50px;
+  column-gap: 4%;
+`;
 
 export const CardProduct = styled.div`
-
-img{
+  img {
     width: 80px;
-}
+  }
 
-h2{
-font-weight: bold;
-max-width: 30vw;
-color: #3A3A3A;
-}
+  h2 {
+    font-weight: bold;
+    max-width: 30vw;
+    color: #3a3a3a;
+  }
 
-h3{
-font-weight: bold;
-color: #803829;
-}
-`
+  h3 {
+    font-weight: bold;
+    color: #803829;
+  }
+`;
