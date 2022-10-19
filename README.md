@@ -28,7 +28,7 @@ Por fim, não se esqueça de criar o arquivo .env e colocar sua configurações 
 ## 🛠️ Tecnologias Utilizadas
 Html, CSS, Javascript, Styled-Components, Chakra UI, useEffect, useState, useForm, GlobalState, Axios, React-Router-Dom, Typescript, MySQL, Node, API, POO.
 
-✒️ Autores
+## ✒️ Autores
 
 ![vue-color-avatar](https://user-images.githubusercontent.com/93271677/195719553-fa3bdb3c-7fb0-41bb-b6f2-9ca6ef6b26de.png)
 
