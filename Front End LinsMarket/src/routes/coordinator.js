@@ -1,7 +1,5 @@
-const goToPage = (Navigate, Page) =>{
+const goToPage = (Navigate, Page) => {
+  Navigate(`/${Page}`);
+};
 
-    Navigate(`/${Page}`)
-    
-    }
-    
-    export default goToPage 
+export default goToPage;
