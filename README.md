@@ -14,7 +14,7 @@ Na parte administrativa, os usuários previamente setados com role de ADMIN, pod
 
 ## 📋 Funcionalidades
 
-API: https://documenter.getpostman.com/view/21551951/2s847LMBRB 
+API: https://documenter.getpostman.com/view/21551951/2s847LMBRB </br>
 FIGMA: https://www.figma.com/file/ZPZdfAeM0zNEbLekWwn7RH/LinsMarket---Lincoln-Ribeiro-DEV?node-id=0%3A1 </br>
 MORDELAGEM DB: https://www.dropbox.com/s/d7i840ntew08p2d/Modelagem%20-%20DB.sql?dl=0
 
@@ -29,4 +29,6 @@ Html, CSS, Javascript, Styled-Components, Chakra UI, useEffect, useState, useFor
 ✒️ Autores
 
 ![vue-color-avatar](https://user-images.githubusercontent.com/93271677/195719553-fa3bdb3c-7fb0-41bb-b6f2-9ca6ef6b26de.png)
+
 INTEGRANTE: https://github.com/lincolnRp
+
