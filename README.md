@@ -1,6 +1,6 @@
 ![linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770077-4aec5618-1872-4df6-a594-feeb208ea083.png)
 
-LinsMarket é uma aplicação fullstack que permite o usuário realizar compras.
+LinsMarket é uma aplicação fullstack que permite o usuário realizar compras. </br>
 APLICAÇÃO EM FUNCIONAMENTO: https://youtu.be/qq60VXKTaA4
 ## 🚀 Descrição do Projeto
 
