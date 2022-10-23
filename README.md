@@ -1,10 +1,10 @@
 ![linsmarket-logo (1)](https://user-images.githubusercontent.com/93271677/196770077-4aec5618-1872-4df6-a594-feeb208ea083.png)
 
-LinsMarket é uma aplicação fullstack que permite o usuário realizar compras. </br>
-APLICAÇÃO EM FUNCIONAMENTO: https://youtu.be/qq60VXKTaA4
+
 ## 🚀 Descrição do Projeto
 
-O projeto LinsMarket, foi desenvolvido para um case de processo seletivo da empresa Shopper.
+O projeto LinsMarket, foi desenvolvido para um case de processo seletivo da empresa Shopper, é uma aplicação fullstack que permite o usuário realizar compras. </br>
+APLICAÇÃO EM FUNCIONAMENTO: https://youtu.be/qq60VXKTaA4
 
 ### Usuários
 Neste projeto, é possível que os usuários se cadastrem e loguem para desfrutar da aplicação, após previamente logado, os usuários tem acesso a uma variedade de produtos, podendo selecionar os desejados adicionando no carrinho, e com preenchimento de formulário de endereço e pagamento, esperar os produtos no conforto de sua casa.
